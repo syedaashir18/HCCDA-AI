@@ -1,0 +1,17 @@
+############################################
+       K-Electric - Electricity BILL        
+############################################
+Consumer : Syed Aashir Imran    Ref: 000011112222
+Reading  : 200 -> 220
+Units consumed                       20
+--------------------------------------------
+Energy cost (slabs)      Rs     200.00
+Fixed / meter charges    Rs     200.00
+TV license fee           Rs      35.00
+GST (17% of energy)      Rs      34.00
+--------------------------------------------
+Payable within due date  Rs     469.00
+Payable after due date   Rs     515.90
+Due date : 2026-11-06
+############################################
+
